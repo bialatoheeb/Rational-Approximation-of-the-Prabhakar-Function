@@ -14,5 +14,5 @@ Copyright (c) 2023 Toheeb A. Biala (biala4mat@gmail.com), Y. O. Afolabi and I. O
 
 ### References
 1. Y. O. Afolabi, T. A. Biala, I. O. Sarumi and B. A. Wade, `Global-Type Rational Approximations of the Three-Parameter Mittag-Leffler Functions Based on Polynomial Bases Functions` Submitted
-2. R. Garrappa, Numerical evaluation of two and three parameter mittag- leffler functions, SIAM Journal on Numerical Analysis 53 (3) (2015) 1350–1369.
+2. R. Garrappa, `Numerical evaluation of two and three parameter mittag- leffler functions`, SIAM Journal on Numerical Analysis 53 (3) (2015) 1350–1369.
 
