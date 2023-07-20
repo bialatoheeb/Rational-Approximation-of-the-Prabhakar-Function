@@ -1,12 +1,15 @@
 # Rational-Approximation-of-Prabhakar-Function
 
-The Mscript implements a rational approximation of the Prabhakar function (three parameter Mittag Leffler function). For a detailed discussion of the approximation method, we refer the reader to [1].
+This python script implements a rational approximation of the Prabhakar function (three parameter Mittag Leffler function). For a detailed discussion of the approximation method, we refer the reader to [1].
 
-The script test_ml.py contains pretty much all the tests that I have run until now. They cover very little of the total functionality of the code. My personal needs are limited to beta=1, gamma=1, and z real, so I might never get around to add decent tests for everything. Contributions are welcome.
+The notebook test.ipynb contains several test with some known functions and equalities, and others that compare our results with the optimal parabolic contour algorithm of Garrappa [2].  
 
-The module ml_internal.py contains the parts that I would like to compile using Pythran for speed, but I haven't succeeded yet. Client code should only import module mittag_leffler.
+The notebook rational_approximation_2_prabhakar_function.ipynb contains several assertions which might not be exhaustive, we implore the reader/user to call  our attention to any further assertions that the code might require. All contributions are welcome. 
+
+Copyright (c) 2023 Toheeb A. Biala (biala4mat@gmail.com), Y. O. Afolabi and I. O. Sarumi 
 
 
 ### References
 1. Y. O. Afolabi, T. A. Biala, I. O. Sarumi and B. A. Wade, `Global-Type Rational Approximations of the Three-Parameter Mittag-Leffler Functions Based on Polynomial Bases Functions` Submitted
+2. R. Garrappa, Numerical evaluation of two and three parameter mittag- leffler functions, SIAM Journal on Numerical Analysis 53 (3) (2015) 1350–1369.
 
