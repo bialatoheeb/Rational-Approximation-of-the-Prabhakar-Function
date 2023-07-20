@@ -1,4 +1,4 @@
-# Rational-Approximation-of-Prabhakar-Function
+# Rational-Approximation-of-the-Prabhakar-Function
 
 This python script implements a rational approximation of the Prabhakar function (three parameter Mittag Leffler function). For a detailed discussion of the approximation method, we refer the reader to [1].
 
