@@ -1,6 +1,6 @@
 # Rational-Approximation-of-the-Prabhakar-Function
 
-This python script implements a rational approximation of the Prabhakar function (three parameter Mittag Leffler function). For a detailed discussion of the approximation method, we refer the reader to [1].
+This jupyter notebook implements a rational approximation of the Prabhakar function (three parameter Mittag Leffler function). For a detailed discussion of the approximation method, we refer the reader to [1].
 
 The notebook test.ipynb contains several test with some known functions and equalities, and others that compare our results with the optimal parabolic contour (OPC) algorithm of Garrappa [2].  
 
