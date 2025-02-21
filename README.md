@@ -13,6 +13,6 @@ Copyright (c) 2023 Toheeb A. Biala (biala4mat@gmail.com), Y. O. Afolabi and I. O
 
 
 ### References
-1. Y. O. Afolabi, T. A. Biala, I. O. Sarumi and B. A. Wade, [Global-Pad\'e Approximation of the Three-Parameter Mittag-Leffler Function: Generalized Derivation and Numerical Implementation Issues](#https://link.springer.com/article/10.1007/s42967-024-00472-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250220&utm_content=10.1007%2Fs42967-024-00472-0), Communications on Applied Mathematics and Computation, (2025).
+1. Y. O. Afolabi, T. A. Biala, I. O. Sarumi and B. A. Wade, [`Global-Pad\'e Approximation of the Three-Parameter Mittag-Leffler Function: Generalized Derivation and Numerical Implementation Issues`](https://link.springer.com/article/10.1007/s42967-024-00472-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250220&utm_content=10.1007%2Fs42967-024-00472-0), Communications on Applied Mathematics and Computation, (2025).
 2. R. Garrappa, `Numerical evaluation of two and three parameter mittag- leffler functions`, SIAM Journal on Numerical Analysis 53 (3) (2015) 1350–1369.
 
